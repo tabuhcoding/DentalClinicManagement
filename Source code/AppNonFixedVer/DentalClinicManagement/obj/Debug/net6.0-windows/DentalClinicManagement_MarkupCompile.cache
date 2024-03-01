@@ -1,0 +1,20 @@
+﻿DentalClinicManagement
+
+
+winexe
+C#
+.cs
+D:\BaohocDH\MonDaiCuong\HQTCSDL\23.CQ.HQTCSDL.07\Source code\AppNonFixedVer\DentalClinicManagement\obj\Debug\net6.0-windows\
+DentalClinicManagement
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\BaohocDH\MonDaiCuong\HQTCSDL\23.CQ.HQTCSDL.07\Source code\AppNonFixedVer\DentalClinicManagement\App.xaml
+2538967914
+
+41661705427
+195-595185352
+Account\Home.xaml;Account\PasswordSignUp.xaml;Account\SignIn.xaml;Account\SignUp.xaml;Account\SignUpSuccess.xaml;Admin\AccountManagement.xaml;Admin\DashBoard.xaml;Admin\MedicalManagement.xaml;Customer\CheckAppoinment.xaml;Customer\DashBoard.xaml;Customer\MakeAppointment.xaml;Customer\ViewProfile.xaml;Customer\ViewRecord.xaml;Dentist\AddAvailableTime.xaml;Dentist\AddRecord.xaml;Dentist\DashBoard.xaml;Dentist\ReceivePatient.xaml;Dentist\SearchCustomerRecord.xaml;Dentist\ViewAppointment.xaml;Employee\CheckAppoinment.xaml;Employee\CheckBill.xaml;Employee\Dashboard.xaml;Employee\MakeAppointment.xaml;Employee\SearchCustomerRecord.xaml;MainWindow.xaml;
+
+False
+
